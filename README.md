@@ -3,7 +3,7 @@ SpineJ is a semi-automatic ImageJ plugin that is specifically designed for quant
 
 ### Plugin
 
-A jar file of the plugin can be downloaded [here](https://github.com/flevet/SpineJ/release/v0.1). The repository contains also a manual and a STED image used in the paper. 
+A jar file of the plugin can be downloaded [here](https://github.com/flevet/SpineJ/tree/master/release/v0.1). The repository contains also a manual and a STED image used in the paper. 
 
 Source code is still being cleaned up and should follow shortly (hopefully...). 
 
